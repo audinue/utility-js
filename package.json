@@ -1,0 +1,8 @@
+{
+	"name": "utility-js",
+	"version": "0.1.0",
+	"description": "Utility functions.",
+	"main": "utility.js",
+	"author": "Audi Nugraha <audinue@gmail.com>",
+	"license": "MIT"
+}
