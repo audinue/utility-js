@@ -1,8 +1,19 @@
 {
-	"name": "utility-js",
-	"version": "0.1.0",
-	"description": "Utility functions.",
-	"main": "utility.js",
-	"author": "Audi Nugraha <audinue@gmail.com>",
-	"license": "MIT"
+  "name": "utility-js",
+  "version": "0.1.0",
+  "description": "JavaScript utility functions.",
+  "main": "utility.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/audinue/utility-js.git"
+  },
+  "author": "Audi Nugraha <audinue@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/audinue/utility-js/issues"
+  },
+  "homepage": "https://github.com/audinue/utility-js#readme"
 }
